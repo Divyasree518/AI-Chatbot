@@ -8,7 +8,6 @@ API_KEY = os.getenv("API_KEY")
 URL = "https://api.kie.ai/codex/v1/responses"
 
 conversation = []
-
 print("🤖 GPT-6 Astra Chatbot")
 print("Type 'exit' to quit\n")
 
