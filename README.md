@@ -75,7 +75,6 @@ The API key is stored in the `.env` file and is excluded from Git using `.gitign
 The API key must never be uploaded to GitHub or shared publicly.
 
 ## 💬 Example
-
 ```text
 🤖 GPT-6 Astra Chatbot
 Type 'exit' to quit
